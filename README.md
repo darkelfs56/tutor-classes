@@ -4,3 +4,5 @@ All of these tutorial files should help me in refreshing my memories about dart 
 
 HELLO WORLD!
 Can't wait to code with Dart
+
+For git, I use gcm to handle token auth, very useful!
